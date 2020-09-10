@@ -1,2 +1,2 @@
-bchlib >= 0.7
+git+git://github.com/abrararies/python-bchlib@master#egg=bchlib
 BitVector >= 3.4
