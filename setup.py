@@ -16,7 +16,7 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     author='Christian Burkert',
-    url='https://github.com/cburkert/fuzzy-commitment',
+    url='https://github.com/abrararies/fuzzy-commitment',
     packages=find_packages(),
     install_requires=[
         'bchlib',
